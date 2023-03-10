@@ -1,4 +1,4 @@
-package com.singleton.service;
+package com.pattern.singleton.service;
 
 public class SingletonService {
 

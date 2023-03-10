@@ -1,6 +1,6 @@
-package com.singleton;
+package com.pattern.singleton;
 
-import com.singleton.service.SingletonService;
+import com.pattern.singleton.service.SingletonService;
 
 public class Main {
     public static void main(String[] args) {
