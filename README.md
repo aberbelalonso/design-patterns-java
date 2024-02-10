@@ -1,11 +1,12 @@
 # Design patterns in java
 ## About the project
-This project is intended to display a collection of jave code samples demonstrating several common design patterns.
+This project is intended to display a collection of java code samples demonstrating several common design patterns.
 Each design can be found inside its corresponding module. 
 
 So far, the following patterns have been included into this project:
 * Singleton
 * Template
+* Strategy
 
 ### Built with
 All modules can be built using gradle:

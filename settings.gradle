@@ -1,4 +1,5 @@
 rootProject.name = 'design-patterns-java'
 include 'singleton'
 include 'template'
+include 'strategy'
 
